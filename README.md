@@ -1,12 +1,12 @@
 # SYS
-A repositiry for SYS projekts
 
+Et repository for SYS-projekter.  
 
-Opgave beskrivelsen findes på https://brightspace.au.dk/ 
-Under faget SYS lektion 5.1
+## Opgavebeskrivelse  
+Opgaven findes på [Brightspace (SYS, lektion 5.1)](https://brightspace.au.dk/).  
 
-Diagrammer:
-https://drive.google.com/file/d/1IXm4wQovlyDRZi3dTs74Un-iG1XVZhwa/view
+## Diagrammer  
+[Link til diagrammer](https://drive.google.com/file/d/1IXm4wQovlyDRZi3dTs74Un-iG1XVZhwa/view)  
 
-Brugbar links:
-https://sysml.org/tutorials/sysml-diagram-tutorial/
+## Brugbare links  
+- [SysML diagram tutorial](https://sysml.org/tutorials/sysml-diagram-tutorial/)
