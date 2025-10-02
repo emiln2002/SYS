@@ -18,7 +18,7 @@ struct Gate {
 
 Gate entryGate, exitGate;
 int parkedCars = 0; 
-int maxParkingspace = 69; 
+int maxParkingspace = 5; 
 
 
 void car(int id, Gate &entryGate, Gate &exitGate)
@@ -126,7 +126,7 @@ int main() {
 
     // Create car threads
     std::vector<std::thread> cars;
-    for (int i = 0; i < 420; ++i) {
+    for (int i = 0; i < 10; ++i) {
         cars.emplace_back(car, i, std::ref(entryGate), std::ref(exitGate));
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
     }
